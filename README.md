@@ -75,7 +75,7 @@ engineering test configuration.
 Object A is the parent protocol registration. The files in
 `archive/object-a-v2.1.0/` are preserved byte-for-byte, including their original
 pre-registration status wording. That wording is historical metadata, not the
-current status: the user-reported public registration date is 2 August 2026,
+current status: OSF displays the registration date as 3 August 2026 at 1:24 AM,
 and the DOI is shown above.
 
 The code, schema, tests, and synthetic fixture in the repository root are a
