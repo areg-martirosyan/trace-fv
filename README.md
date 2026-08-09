@@ -1,6 +1,7 @@
 # TRACE-FV
 
 [![CI](https://github.com/areg-martirosyan/trace-fv/actions/workflows/ci.yml/badge.svg)](https://github.com/areg-martirosyan/trace-fv/actions/workflows/ci.yml)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21863769.svg)](https://doi.org/10.5281/zenodo.21863769)
 
 **Reference implementation and reproducibility assets for TRACE-FV v2.1**
 
@@ -98,8 +99,10 @@ regulatory compliance.
 
 Please cite both the registered protocol and the software release:
 
-Martirosyan, A. (2026). TRACE-FV v2.1: Trigger-Verified Retraction and Correction Endurance under Frame Variance — Black-Box Evaluation Protocol. OSF. https://doi.org/10.17605/OSF.IO/6U3QX
-Martirosyan, A. (2026). TRACE-FV: Reference Implementation and Reproducibility Assets (Version 0.1.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.21863770
+> Martirosyan, A. (2026). *TRACE-FV v2.1: Trigger-Verified Retraction and Correction Endurance under Frame Variance — Black-Box Evaluation Protocol*. OSF. https://doi.org/10.17605/OSF.IO/6U3QX
+
+> Martirosyan, A. (2026). *TRACE-FV: Reference Implementation and Reproducibility Assets* (Version 0.1.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.21863770
+
 For the latest archived software version, use the concept DOI: https://doi.org/10.5281/zenodo.21863769.
 
 ## License
