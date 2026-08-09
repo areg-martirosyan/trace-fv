@@ -96,14 +96,11 @@ regulatory compliance.
 
 ## Citation
 
-Until Zenodo assigns a software DOI, cite the registered protocol:
+Please cite both the registered protocol and the software release:
 
-> Martirosyan, A. (2026). *TRACE-FV v2.1: Trigger-Verified Retraction and
-> Correction Endurance under Frame Variance — Black-Box Evaluation Protocol*.
-> OSF. https://doi.org/10.17605/OSF.IO/6U3QX
-
-After the first GitHub release is archived by Zenodo, cite both the protocol
-DOI and the software DOI because they identify different scholarly objects.
+Martirosyan, A. (2026). TRACE-FV v2.1: Trigger-Verified Retraction and Correction Endurance under Frame Variance — Black-Box Evaluation Protocol. OSF. https://doi.org/10.17605/OSF.IO/6U3QX
+Martirosyan, A. (2026). TRACE-FV: Reference Implementation and Reproducibility Assets (Version 0.1.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.21863770
+For the latest archived software version, use the concept DOI: https://doi.org/10.5281/zenodo.21863769.
 
 ## License
 
