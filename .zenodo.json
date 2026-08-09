@@ -1,0 +1,32 @@
+{
+  "title": "TRACE-FV: Reference Implementation and Reproducibility Assets",
+  "upload_type": "software",
+  "description": "Dependency-free Python reference implementations of the primary TRACE-FV v2.1 scoring estimands, with a fully synthetic worked example, expected outputs, unit tests, continuous integration, and a byte-identical archive of the registered public Object A protocol package. This software release contains no official pilot data and makes no empirical validation claim.",
+  "creators": [
+    {
+      "name": "Martirosyan, Areg",
+      "affiliation": "Independent Researcher",
+      "orcid": "0009-0008-4208-750X"
+    }
+  ],
+  "version": "0.1.0",
+  "access_right": "open",
+  "license": "Apache-2.0",
+  "keywords": [
+    "TRACE-FV",
+    "AI evaluation",
+    "conversational AI",
+    "black-box evaluation",
+    "frame sensitivity",
+    "trigger verification",
+    "correction endurance",
+    "reproducibility"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://doi.org/10.17605/OSF.IO/6U3QX",
+      "relation": "isSupplementTo"
+    }
+  ],
+  "notes": "Mixed-license deposit: source code is Apache-2.0; documentation, synthetic fixtures, expected outputs, and frozen Object A materials are CC-BY-4.0 unless a file states otherwise. The related OSF DOI identifies the registered parent protocol, not this software release."
+}

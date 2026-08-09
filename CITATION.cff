@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+message: >-
+  Please cite both this software release and the registered TRACE-FV protocol.
+  The software DOI will be added after the first Zenodo archive is published.
+title: "TRACE-FV: Reference Implementation and Reproducibility Assets"
+type: software
+version: "0.1.0"
+authors:
+  - family-names: "Martirosyan"
+    given-names: "Areg"
+    affiliation: "Independent Researcher"
+    orcid: "https://orcid.org/0009-0008-4208-750X"
+repository-code: "https://github.com/areg-martirosyan/trace-fv"
+license: "Apache-2.0"
+keywords:
+  - "TRACE-FV"
+  - "AI evaluation"
+  - "conversational AI"
+  - "black-box evaluation"
+  - "frame sensitivity"
+  - "trigger verification"
+  - "correction endurance"
+  - "reproducibility"
+abstract: >-
+  Dependency-free Python reference implementations of the primary TRACE-FV
+  v2.1 scoring estimands, accompanied by synthetic data, expected outputs,
+  tests, continuous integration, and a byte-identical archive of the public
+  OSF Object A protocol package. This release contains no official pilot data.
+references:
+  - type: report
+    title: >-
+      TRACE-FV v2.1: Trigger-Verified Retraction and Correction Endurance under
+      Frame Variance - Black-Box Evaluation Protocol
+    authors:
+      - family-names: "Martirosyan"
+        given-names: "Areg"
+        affiliation: "Independent Researcher"
+        orcid: "https://orcid.org/0009-0008-4208-750X"
+    year: 2026
+    doi: "10.17605/OSF.IO/6U3QX"
+

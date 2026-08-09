@@ -1,0 +1,42 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "trace-fv"
+version = "0.1.0"
+description = "Synthetic reference implementation of TRACE-FV v2.1 scoring metrics"
+readme = "README.md"
+requires-python = ">=3.11"
+license = {text = "Apache-2.0"}
+authors = [
+  {name = "Areg Martirosyan"}
+]
+keywords = [
+  "AI evaluation",
+  "black-box evaluation",
+  "frame sensitivity",
+  "trigger verification",
+  "correction endurance"
+]
+classifiers = [
+  "Development Status :: 3 - Alpha",
+  "License :: OSI Approved :: Apache Software License",
+  "Programming Language :: Python :: 3",
+  "Programming Language :: Python :: 3.11",
+  "Programming Language :: Python :: 3.12",
+  "Programming Language :: Python :: 3.13",
+  "Topic :: Scientific/Engineering"
+]
+dependencies = []
+
+[project.urls]
+Homepage = "https://github.com/areg-martirosyan/trace-fv"
+Repository = "https://github.com/areg-martirosyan/trace-fv"
+"Registered Protocol" = "https://doi.org/10.17605/OSF.IO/6U3QX"
+
+[project.scripts]
+trace-fv = "trace_fv.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]

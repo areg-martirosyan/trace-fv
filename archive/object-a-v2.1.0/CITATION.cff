@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use TRACE-FV, please cite the public OSF registration."
+title: "TRACE-FV v2.1: Trigger-Verified Retraction and Correction Endurance under Frame Variance - Black-Box Evaluation Protocol"
+version: "2.1.0"
+authors:
+  - family-names: "Martirosyan"
+    given-names: "Areg"
+    affiliation: "Independent Researcher"
+license: "CC-BY-4.0"
+keywords:
+  - "TRACE-FV"
+  - "AI safety"
+  - "conversational AI"
+  - "black-box evaluation"
+  - "epistemic calibration"
+  - "trigger verification"
+  - "correction endurance"
+  - "reproducibility"
+abstract: >-
+  TRACE-FV is a black-box evaluation protocol for observable conversational-AI
+  product behavior under frame variance, verified correction triggers, and
+  correction endurance. This public Object A contains the scientific protocol,
+  measurement framework, integrity requirements, scoring rubrics, disclosures,
+  and related-work positioning. It contains no official pilot results.
